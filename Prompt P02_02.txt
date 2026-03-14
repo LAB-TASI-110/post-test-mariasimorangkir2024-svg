@@ -1,0 +1,6 @@
+buatlah sebuah program menggunakan sebuah bahasa pemrograman C, tidak perlu bahasa C khusus seperti bahasa C standar atau library tertentu. kasusnya adalah data stok barang Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+1. Jumlah total data (N).
+2. Deret stok (s1, s2, ..., sN).
+3. Kode kategori barang. contoh nya adalah : 22pcs Dasi SD, 85pcs Gula, 5pcs Rok Pramuka, 120pcs Minyak. buatlah sebuah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. 
+
+program masih salah, tolong buatkan code program yang benar untuk dijhalankan di vscode
